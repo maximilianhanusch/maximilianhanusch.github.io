@@ -1,0 +1,46 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Peer-reviewed publications"
+content: |
+  
+  
+    <ul class="alt" >
+    
+    <li style="font-size:95%;"> <a href="https://enviromicro-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.16590" target="_blank" >[11]</a>
+    He, X., <b>Hanusch, M.</b>, Böll, L., Lach, A., Seifert, T., & Junker, R. R. (2024). Adding experimental precision to the realism of field observations: Plant communities structure bacterial communities in a glacier forefield. Environmental Microbiology, 26(2), e16590.</li>
+    
+    <li style="font-size:95%;"> <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.10095" target="_blank" >[10]</a>
+    He, X., <b>Hanusch, M.</b>, Saueressig, L., Schriever, A., Seifert, T., Villhauer, H., ... & Junker, R. R. (2023). Tracking succession by means of 3D scans of plant communities in a glacier forefield to infer assembly processes. Oikos, e10095.</li>
+    
+    <li style="font-size:95%;"> <a href="https://link.springer.com/article/10.1007/s10021-023-00867-9"target="_blank" >[9]</a>
+    <b>Hanusch, M.</b>, He, X., Janssen, S., Selke, J., Trutschnig, W., & Junker, R. R. (2023). Exploring the Frequency and Distribution of Ecological Non-monotonicity in Associations among Ecosystem Constituents. Ecosystems, 1-22.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://www.frontiersin.org/articles/10.3389/fpls.2022.1017847/full" target="_blank" >[8]</a>
+    He, X., <b>Hanusch, M.</b>, Ruiz-Hernández, V., & Junker, R. R. (2022) Accuracy of mutual predictions of plant and microbial communities vary along a successional gradient in an alpine glacier forefield. Frontiers in Plant Science, 13, 5595.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://www.nature.com/articles/s42003-022-03372-2" target="_blank" >[7]</a>
+    <b>Hanusch, M.</b>, He, X., Ruiz-Hernández, V., & Junker, R. R. (2022) Succession comprises a sequence of threshold-induced community assembly processes towards multidiversity. Communications Biology 5, 424.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://academic.oup.com/jue/article/8/1/juac002/6528534?login=false" target="_blank" >[6]</a>
+    Sweet, F. S., Apfelbeck, B.,<b> Hanusch, M.</b>, Garland Monteagudo, C., & Weisser, W. W. (2022). Data from public and governmental databases show that a large proportion of the regional animal species pool occur in cities in Germany. Journal of Urban Ecology, 8(1), juac002.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://academic.oup.com/femsec/article/97/10/fiab135/6373439" target="_blank" >[5]</a>
+    Junker, R. R., He, X., Otto, J. C., Ruiz-Hernández, V., & <b>Hanusch, M.</b> (2021). Divergent assembly processes? A comparison of the plant and soil microbiome with plant communities in a glacier forefield. FEMS microbiology ecology, 97(10), fiab135.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://we.copernicus.org/articles/20/95/2020/" target="_blank" >[4]</a>
+    Junker, R. R., <b>Hanusch, M.</b>, He, X., Ruiz-Hernández, V., Otto, J. C., Kraushaar, S., Bauch, K., Griessenberger, F., Ohler, L., & Trutschnig, W. (2020). Ödenwinkel: an Alpine platform for observational and experimental research on the emergence of multidiversity and ecosystem complexity. Web Ecology, 20(2), 95-106.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tax.12324" target="_blank" >[3]</a>
+    <b>Hanusch, M.</b>, Ortiz, E. M., Patiño, J., & Schaefer, H. (2020). Biogeography and integrative taxonomy of Epipterygium (Mniaceae, Bryophyta). Taxon, 69(6), 1150-1171.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://www.mdpi.com/2071-1050/11/24/6972" target="_blank" >[2]</a>
+    Apfelbeck, B., Jakoby, C., <b>Hanusch, M.</b>, Steffani, E. B., Hauck, T. E., & Weisser, W. W. (2019). A conceptual framework for choosing target species for wildlife-inclusive urban design. Sustainability, 11(24), 6972.</li>
+ 
+    <li style="font-size:95%;"> <a href="https://www.scvz.org/zoolcv/vol7no2/ZoolCV2018_7_2_Bretzel_etal.pdf" target="_blank" >[1]</a>
+    Bretzel, J., Endriß, T., Halbinger, F., <b>Hanusch, M.</b>, Hege, R., Krömmüller, I., ... & Schaefer, H. (2018). Additions to the checklist of terrestrial biodiversity of Cabo Verde. Zoologia Caboverdiana 7, 2, 28–38 </li></ul>
+ 
+
+    
+
+ 
+#image: "images/worky.JPG"

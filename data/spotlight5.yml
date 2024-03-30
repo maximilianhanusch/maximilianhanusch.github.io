@@ -1,0 +1,26 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-content-fade-down onscroll-image-fade-in"
+id: "first"
+title : "Teaching and supervisory experience"
+content: |
+
+    <h3>Teaching Philosophy</h3>
+    <p>My teaching philosophy is grounded in the experiences I gained during my own studies. I believe that cultivating curiosity is not just about answering questions but also about inspiring others to ask them, just as I was inspired to stay curious by my mentors. Be it at field trips, lab sessions, or theoretical discussions —  the aim is to transform the learning environment into an ecosystem in which curiosity thrives. 
+         </p>
+  
+    <h3> Courses taught </h3>
+    <ul>
+    <li> 	Scientific Methods and Communication (Salzburg, 2022)</li></ul>
+    
+    <h3> Courses assisted </h3>
+    <ul>
+    <li> 	Ecology, Evolution and Systematics of Plants (Salzburg, 2019 - 2021)</li>
+    <li> 	Bryophyte Diversity and Evolution (Munich, 2017 - 2018)</li>
+    <li> 	Plant Systematics and Identification (Munich, 2016 - 2018)</li></ul>
+    
+    <h3>Co-supervision of Students </h3>
+    <ul>
+    <li> 	Cynthia Garland Monteagudo (2018), Master-Thesis, Bird Species in German Cities: An assessment with publicly available data</li> </ul>
+
+
+image: "images/fieldwork.JPG" 
